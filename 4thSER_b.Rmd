@@ -1,0 +1,182 @@
+---
+title: "4th SER warm up"
+subtitle: "Do one thing every day that scares you"
+author: "Ariel Levy"
+date: "19/05/2019 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(xaringan)
+```
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/template.png)
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/templates_rpy/earth_side.png)
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/templates_rpy/3.png)
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/templates_rpy/1st_SER.png)
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/globe.gif)
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/globe.gif)
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/templates_rpy/17_4thSER.png)
+
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/templates_rpy/4.png)
+
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/templates_rpy/5.png)
+
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/templates_rpy/6.png)
+
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/templates_rpy/7.png)
+
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/templates_rpy/8.png)
+
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/templates_rpy/9.png)
+
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/templates_rpy/10.png)
+
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/templates_rpy/11.png)
+
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/templates_rpy/12.png)
+
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/templates_rpy/13.png)
+
+background-position: 50% 50%
+class: center, bottom, inverse
+background-size: cover
+---
+layout: TRUE
+
+background-image:url(/Users/alevy/Desktop/_4thSER/4thSER_files/template_negro.png)
+background-position: 50% 50%
+class: left, center, inverse
+background-size: cover
+
+###Credits
+
+Elaboration and Production: Ariel Levy
+
+Scripts: Ariel Levy & Luciane Alcoforado
+
+Gif elaboration and coding: Andrea Ugohlini & Ariel Levy
+
+Presentation: Ariel Levy & Luciane Alcoforado
+
+Licence: CC0 public domain 
+
+
+
+
+Special thanks for CAPES and UFF for supporting SER.
